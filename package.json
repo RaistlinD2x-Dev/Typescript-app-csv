@@ -4,9 +4,9 @@
   "description": "loading, parsing and reporting on CSV files",
   "main": "index.js",
   "scripts": {
-    "start:build" : "tsc -w",
-    "start:run" : "nodemon build/index.js",
-    "start" : "concurrently npm:start:*"
+    "start:build": "tsc -w",
+    "start:run": "nodemon build/index.js",
+    "start": "concurrently npm:start:*"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/RaistlinD2x-Dev/Typescript-app-csv#readme",
   "dependencies": {
+    "@types/node": "^15.3.0",
     "concurrently": "^6.1.0",
     "nodemon": "^2.0.7"
   }

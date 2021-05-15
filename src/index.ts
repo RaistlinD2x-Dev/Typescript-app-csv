@@ -1,1 +1,1 @@
-console.log('fuck you bro')
+import fs from 'fs';

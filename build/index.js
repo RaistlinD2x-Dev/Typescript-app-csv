@@ -1,2 +1,2 @@
 "use strict";
-console.log('fuck you bro');
+Object.defineProperty(exports, "__esModule", { value: true });
