@@ -1,0 +1,24 @@
+{
+  "name": "Typescript-app-csv",
+  "version": "1.0.0",
+  "description": "loading, parsing and reporting on CSV files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaistlinD2x-Dev/Typescript-app-csv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaistlinD2x-Dev/Typescript-app-csv/issues"
+  },
+  "homepage": "https://github.com/RaistlinD2x-Dev/Typescript-app-csv#readme",
+  "dependencies": {
+    "concurrently": "^6.1.0",
+    "nodemon": "^2.0.7"
+  }
+}
